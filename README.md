@@ -25,16 +25,16 @@
 
 ## 详情
 #### 主页
-![image](https://github.com/etlRlks/etlrlksMVC/blob/master/img/%E4%B8%BB%E9%A1%B5.png)
+![image](https://github.com/etlRlks/etlrlks_MVC/blob/master/img/%E4%B8%BB%E9%A1%B5.png)
 #### 注册示例
-![image](https://github.com/etlRlks/etlrlksMVC/blob/master/img/%E6%B3%A8%E5%86%8C.png)
+![image](https://github.com/etlRlks/etlrlks_MVC/blob/master/img/%E6%B3%A8%E5%86%8C.png)
 #### 登录页
-![image](https://github.com/etlRlks/etlrlksMVC/blob/master/img/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
+![image](https://github.com/etlRlks/etlrlks_MVC/blob/master/img/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
 #### 登录示例
-![image](https://github.com/etlRlks/etlrlksMVC/blob/master/img/%E7%99%BB%E5%BD%95%E6%88%90%E5%8A%9F.png)
+![image](https://github.com/etlRlks/etlrlks_MVC/blob/master/img/%E7%99%BB%E5%BD%95%E6%88%90%E5%8A%9F.png)
 #### TODO
-![image](https://github.com/etlRlks/etlrlksMVC/blob/master/img/TODO.png)
+![image](https://github.com/etlRlks/etlrlks_MVC/blob/master/img/TODO.png)
 #### TODO增删改查
-![image](https://github.com/etlRlks/etlrlksMVC/blob/master/img/TODO%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5.gif)
+![image](https://github.com/etlRlks/etlrlks_MVC/blob/master/img/TODO%E5%A2%9E%E5%88%A0%E6%94%B9%E6%9F%A5.gif)
 
 

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="guaMVC:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7943fa41-be54-4c8a-a52b-62fa73960c89" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="java" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="808c7f55-8fe5-4126-b4f7-c45b4b1c513b" />
+    </checked>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ssm" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cWf5zvL4NazrK7lz9WVecr7MHs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="hive&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$/build/libs" />
+      <recent name="$PROJECT_DIR$/src/main/resources/kybmig/ssm/mapper" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="etlrlksMVC.models" />
+      <recent name="guaMVC.Route" />
+      <recent name="kybmig.ssm.controller.api" />
+      <recent name="kybmig.ssm.model" />
+      <recent name="kybmig.ssm.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/java/guaMVC" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/user" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/actuator/heapdump" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/octet-stream" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/actuator/info" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/vnd.spring-boot.actuator.v2+json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/demo" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="etlrlksMVC.Main" />
+      <module name="etlrlksMVC.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="etlrlksMVC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="etlrlksMVC.Main" />
+      <module name="etlrlksMVC.main" />
+      <method v="2">
+        <option name="Gradle.BeforeRunTask" enabled="true" tasks="build" externalProjectPath="$PROJECT_DIR$" vmOptions="" scriptParameters="" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="etlrlksMVC.Main" />
+      <module name="etlrlksMVC.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="etlrlksMVC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ssm [build]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Gradle.ssm [build]" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@b70aeeee" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7943fa41-be54-4c8a-a52b-62fa73960c89" name="Default Changelist" comment="" />
+      <created>1565860104706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565860104706</updated>
+      <workItem from="1565860108453" duration="12414000" />
+      <workItem from="1565872575440" duration="19813000" />
+      <workItem from="1565940727126" duration="4693000" />
+      <workItem from="1565953593284" duration="45018000" />
+      <workItem from="1566293586519" duration="760000" />
+      <workItem from="1566303325292" duration="12736000" />
+      <workItem from="1566461698630" duration="57000" />
+      <workItem from="1572155918100" duration="650000" />
+      <workItem from="1572156597261" duration="1020000" />
+      <workItem from="1590649093014" duration="133000" />
+      <workItem from="1590753988961" duration="14000" />
+      <workItem from="1590754025227" duration="7087000" />
+      <workItem from="1590770190806" duration="5723000" />
+      <workItem from="1591255157402" duration="12504000" />
+      <workItem from="1591841304801" duration="2347000" />
+      <workItem from="1592058121678" duration="3595000" />
+      <workItem from="1592642065845" duration="3103000" />
+      <workItem from="1593594577095" duration="6063000" />
+      <workItem from="1593616016298" duration="458000" />
+      <workItem from="1593616488307" duration="851000" />
+      <workItem from="1593617356711" duration="19082000" />
+    </task>
+    <task id="LOCAL-00001" summary="gradle 空工程">
+      <created>1572157618427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572157618427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ssm_[test] - 2019.08.16 at 02h 23m 17s.xml">
+      <configuration name="ssm [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gradle 空工程" />
+    <option name="LAST_COMMIT_MESSAGE" value="gradle 空工程" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="253" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590649217944">
+      <screen x="47" y="23" width="1873" height="1057" />
+    </state>
+    <state x="253" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.23.1873.1057@47.23.1873.1057" timestamp="1590649217944" />
+    <state x="359" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1590755938798">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state x="359" y="69" key="#com.intellij.ide.util.MemberChooser/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1590755938798" />
+    <state width="911" height="260" key="GridCell.Tab.0.bottom" timestamp="1590756067671">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1358" height="238" key="GridCell.Tab.0.bottom/47.23.1873.1057@47.23.1873.1057" timestamp="1590649225796" />
+    <state width="911" height="260" key="GridCell.Tab.0.bottom/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1590756067671" />
+    <state width="911" height="260" key="GridCell.Tab.0.center" timestamp="1590756067671">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1358" height="238" key="GridCell.Tab.0.center/47.23.1873.1057@47.23.1873.1057" timestamp="1590649225796" />
+    <state width="911" height="260" key="GridCell.Tab.0.center/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1590756067671" />
+    <state width="911" height="260" key="GridCell.Tab.0.left" timestamp="1590756067671">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1358" height="238" key="GridCell.Tab.0.left/47.23.1873.1057@47.23.1873.1057" timestamp="1590649225796" />
+    <state width="911" height="260" key="GridCell.Tab.0.left/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1590756067671" />
+    <state width="911" height="260" key="GridCell.Tab.0.right" timestamp="1590756067671">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state width="1358" height="238" key="GridCell.Tab.0.right/47.23.1873.1057@47.23.1873.1057" timestamp="1590649225796" />
+    <state width="911" height="260" key="GridCell.Tab.0.right/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1590756067671" />
+    <state x="207" y="43" key="SettingsEditor" timestamp="1590755012007">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state x="277" y="122" key="SettingsEditor/47.23.1873.1057@47.23.1873.1057" timestamp="1590649200060" />
+    <state x="207" y="43" key="SettingsEditor/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1590755012007" />
+    <state x="253" y="133" width="586" height="490" key="find.popup" timestamp="1590756106501">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state x="253" y="133" width="586" height="490" key="find.popup/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1590756106501" />
+    <state x="211" y="171" width="670" height="676" key="search.everywhere.popup" timestamp="1590755029814">
+      <screen x="64" y="23" width="2496" height="1417" />
+    </state>
+    <state x="211" y="171" width="670" height="676" key="search.everywhere.popup/81.-1057.1920.1057/64.23.2496.1417@64.23.2496.1417" timestamp="1590755029814" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="build" />
+    <option value="compileJava" />
+    <option value="test" />
+  </component>
+</project>
